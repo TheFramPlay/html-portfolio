@@ -1,0 +1,19 @@
+body {
+    background-color: aliceblue;
+}
+
+.index-footer {
+    display: flex;
+}
+.index-footer h3 {
+    margin: 5px;
+}
+
+.movie-project {
+    max-width: 450px;
+    max-height: 450px;
+}
+.birthday-project {
+    max-width: 450px;
+    max-height: 450px;
+}
